@@ -2,7 +2,7 @@
 
 This is the GitHub repository for the [CENTURI Hackathon 2022 For quantitative biology].
 
-<img src="../profile/images/poster.jpg" alt="Hackathon-poster" width="200"/>
+<img src="/profile/images/poster.jpg" alt="Hackathon-poster" width="200"/>
 
 ## Welcome to the first CENTURI Hackathon!
 
