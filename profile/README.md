@@ -1,3 +1,4 @@
+![Hackathon-banner](/profile/images/banner.jpg)
 # CENTURI Hackathon 2022 For quantitative biology
 
 This is the GitHub repository for the [CENTURI Hackathon 2022 For quantitative biology].
@@ -8,7 +9,7 @@ This is the GitHub repository for the [CENTURI Hackathon 2022 For quantitative b
 
 During this weekend, you will be working in groups of 5 to 7 people. In order to make
 everything running as smoothly as possible, it is important to identify the different
-problems that you will be working on and to split the team members across these specific 
+problems that you will be working on and to split the team members across these specific
 tasks.
 
 To help you identifying the problems to solve and organizing your weekend Road Maps have
@@ -41,6 +42,15 @@ Here is the mapping of the project names to the repository names:
 - Open source syringe driver: [syringe-driver]
 
 In general, the specifics are described within the repository of each project.
+
+## Resources
+
+You can find below some ressources about different topics.
+
+### GitHub
+- [Version control with git](https://swcarpentry.github.io/git-novice/)
+-
+-
 
 ## Troubleshooting
 
