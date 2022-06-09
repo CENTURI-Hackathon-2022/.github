@@ -3,7 +3,7 @@
 
 This is the GitHub repository for the [CENTURI Hackathon 2022 For quantitative biology].
 
-<img src="/profile/images/poster.jpg" alt="Hackathon-poster" width="200"/>
+<!-- <img src="/profile/images/poster.jpg" alt="Hackathon-poster" width="200"/> -->
 
 ## Welcome to the first CENTURI Hackathon!
 
@@ -48,9 +48,15 @@ In general, the specifics are described within the repository of each project.
 You can find below some ressources about different topics.
 
 ### GitHub
-- [Version control with git](https://swcarpentry.github.io/git-novice/)
--
--
+- [Version control with git](https://swcarpentry.github.io/git-novice/) (standard
+git information)
+- [Git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet/) (git cheat sheet)
+- [Oh Shit Git](https://ohshitgit.com/) (how to fix git mistakes)
+
+### Python
+- [Introduction to Python](https://guignardlab.github.io/CenTuri-Course-2022/1-Introduction-to-Python/Resources/1-Variables.html)
+- [Introduction to numpy](https://numpy.org/doc/stable/user/quickstart.html)
+- [Matplotlib cheatsheet](https://github.com/matplotlib/cheatsheets)
 
 ## Troubleshooting
 
